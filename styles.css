@@ -18,7 +18,7 @@ section{
 
 a{
     color: #2e1509;
-
+    font-size: 20px;
 }
 
 #home{
@@ -31,6 +31,12 @@ a{
     padding-top: 50px;
     grid-column: 6 / span 3;
     text-align: center;
+}
+
+.project_desc{
+        font-size: 30px;
+        padding-top: 150px;
+        grid-column: 6 / span 3;
 }
 
 #project1{
