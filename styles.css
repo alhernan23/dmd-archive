@@ -1,0 +1,25 @@
+body{
+    background-image: url(img/archive_bg-01.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: whitesmoke;
+}
+
+#project1{
+    background-image: url(img/project1-01.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#project2{
+    background-image: url(img/project2-01.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#project3{
+    background-image: url(img/project3-01.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
