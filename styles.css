@@ -1,14 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
 body{
     background-image: url(img/archive_bg-01.png);
     background-repeat: no-repeat;
     background-size: 100%;
-    color: whitesmoke;
-    font-family: 'Yeseva One', cursive;
-    font-size: 30px;
+    color: antiquewhite;
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
 }
-
 
 section{
     display: grid;
@@ -17,7 +16,19 @@ section{
     grid-auto-flow: dense;
 }
 
+a{
+    color: #2e1509;
+
+}
+
 #home{
+    padding-top: 150px;
+    grid-column: 6 / span 3;
+    text-align: center;
+}
+
+#nav{
+    padding-top: 50px;
     grid-column: 6 / span 3;
     text-align: center;
 }
